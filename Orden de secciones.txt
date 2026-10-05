@@ -1,0 +1,12 @@
+Orden de secciones:
+Hero
+→ Nuestros trabajos (galería)
+→ Quiénes somos
+→ Opiniones de clientes
+→ Medios de pago
+→ Contacto (WhatsApp + Instagram)
+→ Footer
+
+<header>  →  Solo logo + navegación (si la tenés)
+<main> (section)   →  Hero + Galería + Quiénes somos + Opiniones + Medios de pago + Contacto
+<footer> (div) →  Logo + Términos + Privacidad + © 2026   

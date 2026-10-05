@@ -1,0 +1,8 @@
+1. Wireframe (Figma).
+2. Estructura HTML.
+3. CSS (mobile-first, layout, responsive, breakpoints)
+4. JS (interacciones: lightbox, smooth scroll, lazy load)
+5. Cargar contenido real.
+6. Test en dispositivos reales.
+7. Deploy.
+8. Documentar proceso en README + (opcional) blog post.
