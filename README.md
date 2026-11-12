@@ -9,8 +9,8 @@ Landing page para Flor Judok.
 
 ## Estructura
 - `index.html` — Estructura semántica
-- `styles/` — CSS por sección
-- `scripts/` — JS de interacciones
+- `css/` — CSS por sección
+- `js/` — JS de interacciones
 - `assets/` — Imágenes y logos
 
 ## Decisiones de diseño
