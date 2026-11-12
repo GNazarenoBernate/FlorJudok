@@ -19,11 +19,12 @@ Landing page para Flor Judok.
 
 - Usé `<section>` para cada bloque porque cada uno tiene un heading h2 y contenido temático propio.
 - Mobile-first: empecé con el layout de 375px y agregué breakpoints en 768px y 1024px.
+- Migré el entorno de desarrollo a WSL2 (Ubuntu) en vez de trabajar con Node/Git nativos de Windows. Motivos: Evité instalar Linux en dual boot. WSL2 da un entorno Unix real sin tocar particiones, y es compatible al 100% con las herramientas que uso (Node, Git, npm).
 
 ## Status
 - [x] Wireframe (Figma)
 - [x] Estructura HTML
-- [ ] CSS base
+- [x] CSS base
 - [ ] CSS responsive
 - [ ] JS (lightbox, smooth scroll, lazy load)
 - [ ] Contenido real
